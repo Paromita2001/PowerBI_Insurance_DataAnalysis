@@ -1,0 +1,23 @@
+Type: Power BI Dashboard File
+
+Purpose: This is the core of the project, containing all your interactive visualizations and analytical logic.
+
+Description:
+
+Created using Power BI Desktop, this file connects to both the insurance dataset and sentiment feedback data.
+
+It includes data transformation steps (using Power Query), custom measures (DAX formulas), and various visualizations.
+
+The dashboard visually represents:
+
+Total Premium, Claim, and Coverage values.
+
+Distribution of claims by status (Settled, Rejected, Pending).
+
+Policies categorized by age group and policy type.
+
+Customer demographics (Gender, Activity Status).
+
+Sentiment Analysis based on customer feedback with word clouds, sentiment scores, and summary tables.
+
+Why it matters: This file demonstrates your ability to clean, model, and visualize real-world data end-to-end using Power BI.
