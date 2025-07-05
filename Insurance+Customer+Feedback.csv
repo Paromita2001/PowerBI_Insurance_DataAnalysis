@@ -1,0 +1,16 @@
+Type: CSV File
+
+Purpose: Contains textual feedback data used to perform sentiment analysis in your Power BI report.
+
+Description:
+
+Includes fields such as:
+
+Customer_ID, Feedback_Text, Sentiment_Score, Sentiment_Label
+
+The Insurance+Customer+Feedback (e.g., a decimal between 0 and 1) quantifies positivity.
+
+Sentiment_Label is a categorized value like Excellent, Good, or Needs Improvement.
+
+Why it matters: This adds a text analytics dimension to your project — showing your ability to handle and visualize qualitative data within Power BI.
+
